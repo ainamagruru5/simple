@@ -7,8 +7,15 @@ import javax.servlet.http.*;
 public class HelloWorld extends HttpServlet {
 	
 	
+<<<<<<< HEAD
 	int count = 0;int m = 0;
+	String qwert="";
 	//§»123cc
+=======
+	int count = 0;int x = 0;
+	float qaz = 12;
+	//§»123zxc
+>>>>>>> tea
 
 	public void doGet(HttpServletRequest req, HttpServletResponse res)
 			                         throws ServletException, IOException {
