@@ -8,6 +8,7 @@ public class HelloWorld extends HttpServlet {
 	
 	
 	int count = 0;int x = 0;
+	float qaz = 12;
 	//§»123zxc
 
 	public void doGet(HttpServletRequest req, HttpServletResponse res)
